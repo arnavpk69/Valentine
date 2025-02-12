@@ -3,66 +3,61 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Will You Be My Valentine, Aditi? ❤️</title>
+    <title>Valentine's Day Proposal</title>
     <style>
         body {
-            text-align: center;
             font-family: 'Arial', sans-serif;
-            background-color: #ffe6e6;
+            background-color: #f8e6e0;
+            text-align: center;
+            padding: 50px;
+        }
+        .container {
+            background-color: #ffffff;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            max-width: 600px;
+            margin: auto;
             padding: 20px;
         }
         h1 {
-            color: #ff3366;
-            font-size: 50px;
+            color: #d32f2f;
         }
         p {
-            font-size: 20px;
-            color: #333;
+            font-size: 18px;
+            line-height: 1.6;
+            color: #333333;
         }
         .heart {
-            font-size: 100px;
-            color: red;
+            color: #d32f2f;
+            font-size: 50px;
         }
-        .image-container {
-            display: flex;
-            justify-content: center;
-            gap: 15px;
-            flex-wrap: wrap;
-            margin-top: 20px;
-        }
-        .image-container img {
-            width: 300px;
-            height: auto;
-            border-radius: 15px;
-            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
-        }
-        button {
-            background-color: #ff3366;
-            color: white;
-            font-size: 20px;
+        .button {
+            background-color: #d32f2f;
+            color: #ffffff;
             padding: 10px 20px;
-            border: none;
-            border-radius: 10px;
-            cursor: pointer;
             margin-top: 20px;
+            text-decoration: none;
+            border-radius: 5px;
+            display: inline-block;
         }
-        button:hover {
-            background-color: #cc0052;
+        .button:hover {
+            background-color: #b71c1c;
         }
     </style>
 </head>
 <body>
-
-    <h1>Will You Be My Valentine, Aditi? ❤️</h1>
-    <p>You make my world brighter, my days happier, and my heart fuller. I can't imagine this Valentine's Day without you. 💕</p>
-    
-    <div class="image-container">
-        <img src="file-VYr4u5vGdniGbjHysSoQ4x.jpg" alt="Cute Picture 1">
-        <img src="file-7GbAAT74q8Fi3btTA7x2PW.jpg" alt="Cute Picture 2">
-        <img src="file-Kjj82CLTeXsTiMHRKXw1jZ.jpg" alt="Cute Picture 3">
+    <div class="container">
+        <h1>Will You Be My Valentine, Aditi?</h1>
+        <p>
+            Dear Aditi,<br><br>
+            Valentine's Day is just around the corner, and I couldn't think of a better time to express my feelings for you. From the moment we met, you've brought so much joy and happiness into my life. Your smile lights up my days, and your kindness warms my heart.<br><br>
+            I've cherished every moment we've spent together, and I look forward to making many more beautiful memories with you. So, on this special day, I want to ask you something very important.<br><br>
+            <span class="heart">&hearts;</span> Will you be my Valentine? <span class="heart">&hearts;</span><br><br>
+            Let's celebrate this Valentine's Day together and create a day filled with love, laughter, and unforgettable moments. I promise to make it a day you'll never forget.<br><br>
+            With all my love,<br>
+            Arnav
+        </p>
+        <a href="#" class="button">Yes, I Will!</a>
     </div>
-
-    <button onclick="alert('Yay! I knew you’d say YES! ❤️')">Yes, of course! 💘</button>
-
 </body>
 </html>
