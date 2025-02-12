@@ -50,8 +50,8 @@
         <h1>Will You Be My Valentine, Aditi?</h1>
         <p>
             Dear Aditi,<br><br>
-            Wassup my nigga ik not great choice of first words seeing the background and all but such is life. Anyways you are the best thing that has happened in my life words cant express how much i love your dumbass i might not say it much but i do .<br><br>
-           I really love spending time with you, you make me the happiest mf when your with me, but uppar wala had diffrent plans and put us in semi long distance so annoying istg. Its hard to stay away from you for soo long. But now to a more important question(read below cuz ur dyslexic and lowkey autistic)<br><br>
+            Wassup my nigga ik not great choice of first words seeing the background and all but such is life. Anyways you are the best thing that has happened in my life and words cant express how much i love your dumbass i might not say it as much but i really  do .<br><br>
+           I really love spending time with you, you make me the happiest mf when im with you, but uppar wala had diffrent plans and put us in semi long distance, so annoying istg. Its hard to stay away from you for soo long. But now to a more important question(read below cuz ur dyslexic and lowkey autistic)<br><br>
             <span class="heart">&hearts;</span> Will you be my Valentine? <span class="heart">&hearts;</span><br><br>
            It is sad that we cant celebrate valentine cuz of your stupid exams like cmon man this is the first time i have a valentine and i got cockblocked by your stupid exams LMAOOOO, sorry i cant be too lovey without throwing few jokes but anyways i love your dumbass so plz press the only option i left you cuz you got no other choice lil nigga,<br>
             Arnav
