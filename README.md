@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -7,13 +7,12 @@
     <style>
         body {
             font-family: 'Arial', sans-serif;
-            background-image: url('background1.jpg'); /* Add your background image for chocolates and flowers */
-            background-size: cover;
+            background-color: #f8e6e0;
             text-align: center;
             padding: 50px;
         }
         .container {
-            background-color: rgba(255, 255, 255, 0.9);
+            background-color: #ffffff;
             border-radius: 10px;
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
             max-width: 600px;
@@ -57,8 +56,10 @@
             Let's celebrate this Valentine's Day together and create a day filled with love, laughter, and unforgettable moments. I promise to make it a day you'll never forget.<br><br>
             With all my love,<br>
             Arnav
-        </p>
+    </p>
         <a href="congratulations.html" class="button">Yes, I Will!</a>
     </div>
 </body>
 </html>
+       
+ 
