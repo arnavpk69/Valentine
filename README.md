@@ -61,3 +61,57 @@
     </div>
 </body>
 </html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Congratulations</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-image: url('background2.jpg'); /* Add your background image for celebration */
+            background-size: cover;
+            text-align: center;
+            padding: 50px;
+            animation: confetti 5s infinite;
+        }
+        .container {
+            background-color: rgba(255, 255, 255, 0.9);
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            max-width: 600px;
+            margin: auto;
+            padding: 20px;
+        }
+        h1 {
+            color: #d32f2f;
+        }
+        p {
+            font-size: 18px;
+            line-height: 1.6;
+            color: #333333;
+        }
+        .heart {
+            color: #d32f2f;
+            font-size: 50px;
+        }
+        @keyframes confetti {
+            0% {background-position: 0 0;}
+            100% {background-position: 100% 100%;}
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Congratulations, Aditi!</h1>
+        <p>
+            You are a lucky woman!<br><br>
+            You've just made Arnav the happiest person on earth. Get ready for an unforgettable Valentine's Day filled with love, joy, and surprises.<br><br>
+            <span class="heart">&hearts;</span><br><br>
+            With all my love,<br>
+            Arnav
+        </p>
+    </div>
+</body>
+</html>
