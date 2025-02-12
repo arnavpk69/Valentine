@@ -50,11 +50,10 @@
         <h1>Will You Be My Valentine, Aditi?</h1>
         <p>
             Dear Aditi,<br><br>
-            Valentine's Day is just around the corner, and I couldn't think of a better time to express my feelings for you. From the moment we met, you've brought so much joy and happiness into my life. Your smile lights up my days, and your kindness warms my heart.<br><br>
-            I've cherished every moment we've spent together, and I look forward to making many more beautiful memories with you. So, on this special day, I want to ask you something very important.<br><br>
+            Wassup my nigga ik not great choice of first words seeing the background and all but such is life. Anyways you are the best thing that has happened in my life words cant express how much i love your dumbass i might not say it much but i do .<br><br>
+           I really love spending time with you, you make me the happiest mf when your with me, but uppar wala had diffrent plans and put us in semi long distance so annoying istg. Its hard to stay away from you for soo long. But now to a more important question(read below cuz ur dyslexic and lowkey autistic)<br><br>
             <span class="heart">&hearts;</span> Will you be my Valentine? <span class="heart">&hearts;</span><br><br>
-            Let's celebrate this Valentine's Day together and create a day filled with love, laughter, and unforgettable moments. I promise to make it a day you'll never forget.<br><br>
-            With all my love,<br>
+           It is sad that we cant celebrate valentine cuz of your stupid exams like cmon man this is the first time i have a valentine and i got cockblocked by your stupid exams LMAOOOO, sorry i cant be too lovey without throwing few jokes but anyways i love your dumbass so plz press the only option i left you cuz you got no other choice lil nigga,<br>
             Arnav
     </p>
         <a href="congratulations.html" class="button">Yes, I Will!</a>
